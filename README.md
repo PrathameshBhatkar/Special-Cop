@@ -1,7 +1,7 @@
 # Special-Cop
 Run Thieves Cops are here
 
-Special Cops
+Special Cop
 ============
 
 Entry in PyWeek #31 <https://pyweek.org/31/>
