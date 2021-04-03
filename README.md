@@ -5,13 +5,14 @@ Special Cops
 ============
 
 Entry in PyWeek #31 <https://pyweek.org/31/>
+
 Name: Prathamesh Anant Bhatkar
 Team: 
 Members: 
 
 
 The code is written by Prathamesh Bhatkar.
-This artwork is created by me.
+This artwork is also created by me.
 
 
 DEPENDENCIES:
