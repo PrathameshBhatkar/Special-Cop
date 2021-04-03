@@ -2,7 +2,7 @@
 Run Thieves Cops are here
 
 Special Cop
-============
+=============
 
 Entry in PyWeek #31 <https://pyweek.org/31/>
 
